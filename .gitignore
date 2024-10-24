@@ -3,3 +3,4 @@ node_modules/
 
 # Ignore .idea directory
 .idea/
+cahce-test.iml
